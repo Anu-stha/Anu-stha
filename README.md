@@ -2,4 +2,4 @@
 <br>
 this is my first git repository
 <br>
-auther: Anu stha
+auther: Anu shrestha
